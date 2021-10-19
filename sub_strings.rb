@@ -10,6 +10,6 @@ def substrings(text, dictionary)
   return result
 end
 
-dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
+dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit", "do", "par", "in"]
 
 substrings("Howdy partner, sit down! How's it going?", dictionary)
